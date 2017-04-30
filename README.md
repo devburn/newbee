@@ -1,3 +1,5 @@
 # newbee
 master branch
-Saved in beta version
+
+iBuildCore is backend
+iBuild is front-end
